@@ -1,5 +1,5 @@
 ---
-title: MVC framework for web development
+title: MVC framework for fast web development
 ---
 
 ## Installation
@@ -14,7 +14,8 @@ is an example website made with RailsOnLisp.
 
 beta
 
-Audience: developers.
+Audience:
+Developers with knowledge of Common Lisp and Ruby on Rails.
 
 -----
 
