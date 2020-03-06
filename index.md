@@ -7,7 +7,8 @@ title: MVC framework for web development
 
 ## Example
 
-[Mentats] is an example website made with RailsOnLisp.
+[Mentats](https://github.com/LowH/mentats)
+is an example website made with RailsOnLisp.
 
 ## Current status
 
