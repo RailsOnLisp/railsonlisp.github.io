@@ -1,0 +1,7 @@
+url: https://railsonlisp.kmx.io/
+theme: jekyll-theme-slate
+title: Rails on Lisp
+description: Common Lisp MVC framework for web development
+show_downloads: false
+github:
+  repository_url: https://github.com/RailsOnLisp
