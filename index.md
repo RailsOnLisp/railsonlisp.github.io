@@ -3,7 +3,7 @@ title: MVC framework for fast web development
 ---
 
 ## Installation
-[RailsOnLisp installation](https://github.com/thodg/lisp-beamer/blob/master/lisp-beamer.pdf)
+[RailsOnLisp installation](https://github.com/thodg/slides/blob/master/railsonlisp.pdf)
 
 ## Example
 
